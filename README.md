@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **premsaireddy87@gmail.com**
 
-- ⚡ Fun fact **" 🦸‍♂️ "I have superpowers—frontend by day, backend by night!"**
+- ⚡ Fun fact **" 🦸‍♂️ "I have superpowers—ML && DL by day, backend by night!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
