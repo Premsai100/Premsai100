@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-protfolio-tawny.vercel.app/](https://personal-protfolio-tawny.vercel.app/)
 
-- 💬 Ask me about **react,java and Html/Css**
+- 💬 Ask me about **python,java,springboot/flask and Machine learning,deep learning,Agentic ai,gen ai **
 
 - 📫 How to reach me **premsaireddy87@gmail.com**
 
