@@ -1,21 +1,76 @@
-<h1 align="center">Hi 👋, I'm Y.PREM SAI REDDY</h1>
-<h3 align="center">Building Seamless Frontend and Backend Experiences</h3>
+<h1 align="center">Hi 👋, I'm Yennam Prem Sai Reddy</h1>
+<h3 align="center">AI Engineer · ML Engineer · GenAI · LLM Fine-tuning · Agentic AI · Java · Spring Boot</h3>
 
-- 👨‍💻 All of my projects are available at [https://personal-protfolio-tawny.vercel.app/](https://personal-protfolio-tawny.vercel.app/)
+<p align="center">
+  I build AI systems that people actually use — and backend systems that scale. Three internal AI tools deployed at NextRow Digital, a live agentic stock intelligence system, a fine-tuned LLaMA for Telugu published on HuggingFace, and full-stack Java applications built with Spring Boot.
+</p>
 
-- 💬 Ask me about **python,java,springboot/flask and Machine learning,deep learning,Agentic ai,gen ai **
+---
 
-- 📫 How to reach me **premsaireddy87@gmail.com**
+- 🔭 Currently working as **Program Analyst Trainee @ NextRow Digital** — building RAG bots, agentic content writers, and visual regression tools
+- 🌱 Ongoing: Fine-tuning **LLaMA for Telugu** (Indic NLP) — published on HuggingFace
+- 🚀 Live: **[AI Stock Prediction System](https://aistockprediction-production.up.railway.app/)** — TFT + NLP + Sentiment Analysis
+- 👨‍💻 All projects: **[My Portfolio](https://personal-protfolio-tawny.vercel.app/)**
+- 🤗 HuggingFace: **[huggingface.co/premsaireddy](https://huggingface.co/premsaireddy)**
+- 💬 Ask me about **Python · PyTorch · LLM Fine-tuning · RAG · LangChain/LangGraph · Agentic AI · Java · Spring Boot**
+- 📫 Reach me at **premsaireddy87@gmail.com**
+- ⚡ Fun fact: **ML && DL by day, Spring Boot by night — and reading AI research papers just for fun 📄🧠**
 
-- ⚡ Fun fact **" 🦸‍♂️ "I have superpowers—ML && DL by day, backend by night!"**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/contact-prem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premsai" height="30" width="40" /></a>
-<a href="https://instagram.com/prem_sai__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_sai__1" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/contact-prem/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/prem_sai__1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=premsai100&show_icons=true&locale=en&layout=compact" alt="premsai100" /></p>
+<h3 align="left">🧠 AI / ML Stack</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">☕ Java / Backend Stack</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">🌐 Frontend & Tools</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">📌 Featured Projects</h3>
+
+**🧬 [Indic LLaMA — Telugu Fine-tuned LLM](https://huggingface.co/premsaireddy)**
+> Fine-tuned LLaMA on Samantara & Sangraha datasets + custom scraped Telugu corpus. Bridging the AI gap for an under-resourced Indic language. Evaluated via perplexity & BLEU — ongoing.
+> `Python` `LLaMA` `HuggingFace` `NLP` `Data Engineering`
+
+**📈 [AI Stock Prediction System](https://aistockprediction-production.up.railway.app/) · [GitHub](https://github.com/Premsai100/ai_stock_prediction)**
+> Multi-modal pipeline: Temporal Fusion Transformer (TFT) on 10 years of OHLCV data + NLP sentiment + Screener fundamentals. Deployed on Railway with REST API.
+> `Python` `TFT` `NLP` `Sentiment Analysis` `Spring Boot`
+
+**📚 Book Bazaar**
+> A full-stack book marketplace application — browse, list, and manage books with a clean REST API backend.
+> `Java` `Spring Boot` `MySQL` `REST APIs`
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=premsai100&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="premsai100" />
+</p>
